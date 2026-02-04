@@ -135,16 +135,6 @@ The demo video demonstrates:
 
 ---
 
-## AI Usage Disclosure
-GPT was used as a **reference tool** for:
-- Clarifying Jetpack Compose patterns
-- Understanding Firebase Analytics setup
-- Verifying architectural decisions
-
-All OTP logic, state handling, UI composition, and edge-case handling were **understood and implemented manually**.
-
----
-
 ## Conclusion
 This project demonstrates:
 - Correct use of Jetpack Compose
