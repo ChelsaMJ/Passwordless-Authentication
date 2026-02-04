@@ -123,6 +123,7 @@ No extra setup steps are required.
 ---
 
 ## Demo Video
+Link: [https://drive.google.com/file/d/1zJI_wWyg758_h9UEKbDlA-eTs4sRb63W/view?usp=sharing]
 The demo video demonstrates:
 - Email entry and OTP generation
 - OTP verification (success and failure)
