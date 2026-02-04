@@ -118,6 +118,7 @@ Events were verified using **Firebase Analytics DebugView** during development.
 2. Let Gradle sync complete
 3. Start an **Android Emulator**
 4. Click ▶ **Run**
+- Ensure `google-services.json` is present in the `app/` directory
 
 No extra setup steps are required.
 
