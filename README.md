@@ -52,8 +52,6 @@ OTP data is stored **per email address** using an in-memory data structure:
 Map<String, OtpData>
 ```
 
-## OTP Data Storage
-
 **OtpData contains:**
 - `otp` → generated OTP
 - `timestamp` → OTP generation time
