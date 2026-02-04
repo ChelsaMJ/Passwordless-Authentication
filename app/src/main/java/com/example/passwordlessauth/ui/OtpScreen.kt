@@ -49,7 +49,6 @@ fun OtpScreen(
                     fontSize = 14.sp
                 )
 
-                // 🔴 Error message (edge cases)
                 if (errorMessage != null) {
                     Text(
                         text = errorMessage,
