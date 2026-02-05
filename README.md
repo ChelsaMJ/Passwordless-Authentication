@@ -133,12 +133,4 @@ The demo video demonstrates:
 - Logout flow
 - Firebase Analytics DebugView events
 
----
-
-## Conclusion
-This project demonstrates:
-- Correct use of Jetpack Compose
-- Clean ViewModel-driven architecture
-- Proper OTP logic and edge-case handling
-- Rotation-safe state management
-- Correct SDK integration without backend dependency
+  
